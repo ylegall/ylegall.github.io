@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-11-24T17:23:43-00:00</lastmod>
+<lastmod>2014-11-24T20:39:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-11-24T17:23:43-00:00</lastmod>
+<lastmod>2014-11-24T20:39:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-11-24T17:23:43-00:00</lastmod>
+<lastmod>2014-11-24T20:39:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-11-24T17:23:43-00:00</lastmod>
+<lastmod>2014-11-24T20:39:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/posts/wetlands-2.html</loc>
+<lastmod>2013-04-15T15:11:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/posts/coast.html</loc>
 <lastmod>2012-10-31T10:17:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -53,8 +60,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/posts/desert-2.html</loc>
+<lastmod>2011-07-15T10:17:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/posts/breaking-down-breaking-up.html</loc>
 <lastmod>2010-12-03T10:20:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/desert.html</loc>
+<lastmod>2009-04-15T17:17:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/posts/cubes.html</loc>
+<lastmod>2008-03-11T22:55:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/art.html</loc>
-<lastmod>2012-10-31T10:17:00-07:53</lastmod>
+<lastmod>2013-04-15T15:11:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
