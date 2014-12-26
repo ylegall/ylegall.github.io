@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Yann Le Gall</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-10-03T10:20:00-07:00</updated><entry><title>Message if you Dare</title><link href="/posts/message-if-you-dare.html" rel="alternate"></link><updated>2014-10-03T10:20:00-07:00</updated><author><name>ylegall</name></author><id>tag:,2014-10-03:posts/message-if-you-dare.html</id><summary type="html">&lt;pre class="poem"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Yann Le Gall</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-12-22T08:00:00-08:00</updated><entry><title>dust</title><link href="/posts/dust.html" rel="alternate"></link><updated>2014-12-22T08:00:00-08:00</updated><author><name>ylegall</name></author><id>tag:,2014-12-22:posts/dust.html</id><summary type="html">&lt;p&gt;I decided to have some fun with &lt;a href="https://processing.org/"&gt;Processing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lol" src="images/dust.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;Check out the code &lt;a href="https://github.com/ylegall/Processing-Sketches/tree/master/dust"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Message if you Dare</title><link href="/posts/message-if-you-dare.html" rel="alternate"></link><updated>2014-10-03T10:20:00-07:00</updated><author><name>ylegall</name></author><id>tag:,2014-10-03:posts/message-if-you-dare.html</id><summary type="html">&lt;pre class="poem"&gt;
     All ye who wander here,
     maidens vile, maidens fair,
     wear a smile, have no fear,
