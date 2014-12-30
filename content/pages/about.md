@@ -8,3 +8,10 @@ Category: about
 
 I'm originally from Pittsburgh, but now I live in Seattle.
 I'm passionate about art, software, and fitness.
+
+<ul>
+	<li>
+		<a href="https://drive.google.com/file/d/0Bxr9kMM7XXbzX1NnbnpUcHlmYXM/view?usp=sharing">Resume</a>
+	</li>
+
+</ul>
