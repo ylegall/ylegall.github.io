@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://ylegall.github.io/index.html</loc>
-<lastmod>2014-12-29T18:17:14-00:00</lastmod>
+<lastmod>2015-02-14T14:18:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://ylegall.github.io/archives.html</loc>
-<lastmod>2014-12-29T18:17:14-00:00</lastmod>
+<lastmod>2015-02-14T14:18:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://ylegall.github.io/tags.html</loc>
-<lastmod>2014-12-29T18:17:14-00:00</lastmod>
+<lastmod>2015-02-14T14:18:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://ylegall.github.io/categories.html</loc>
-<lastmod>2014-12-29T18:17:14-00:00</lastmod>
+<lastmod>2015-02-14T14:18:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,6 +88,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://ylegall.github.io/posts/winter-sunset.html</loc>
+<lastmod>2009-12-30T00:00:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://ylegall.github.io/posts/desert.html</loc>
 <lastmod>2009-04-15T17:17:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -97,6 +104,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://ylegall.github.io/posts/cubes.html</loc>
 <lastmod>2008-03-11T22:55:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://ylegall.github.io/posts/shore.html</loc>
+<lastmod>2008-01-03T00:00:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://ylegall.github.io/posts/caldera.html</loc>
+<lastmod>2007-05-18T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
