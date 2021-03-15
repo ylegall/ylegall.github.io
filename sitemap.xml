@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ylegall.github.io/about/</loc>
+  </url><url>
     <loc>https://ylegall.github.io/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://ylegall.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ylegall.github.io/tags/</loc>
   </url><url>
     <loc>https://ylegall.github.io/</loc>
   </url>
